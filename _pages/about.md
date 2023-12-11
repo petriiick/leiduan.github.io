@@ -56,7 +56,7 @@ My research focuses on the interdisciplinary research in Artificial Intelligence
 **Lei Duan**
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Pitfalls in my daily data analysis work.
+- This article demonstrates the practical application of Propensity Score Matching (PSM) in the gaming industry to assess player retention rates. Faced with the challenge of comparing retention rates between players engaged in both Matching and Ranking modes versus those in just Matching mode
 </div>
 </div>
 
@@ -68,7 +68,7 @@ My research focuses on the interdisciplinary research in Artificial Intelligence
 **Lei Duan**
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Pitfalls in my daily data analysis work.
+- The articl introduces the Cobb-Douglas production function, adapted to analyze the diminishing impact of increasing key metrics like session count and duration on revenue. This approach underscores the influence of a platform's maturity stage on revenue growth, highlighting the principle of marginal diminishing returns for more effective and rapid revenue modeling.
 </div>
 </div>
 
@@ -80,7 +80,7 @@ My research focuses on the interdisciplinary research in Artificial Intelligence
 **Lei Duan**
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Pitfalls in my daily data analysis work.
+- The article discusses an instance of Simpson's Paradox in data analysis.
 </div>
 </div>
 
