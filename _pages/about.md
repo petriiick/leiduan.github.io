@@ -48,6 +48,18 @@ My research focuses on the interdisciplinary research in Artificial Intelligence
 - [Simpson’s Paradox in daily data analysis work](https://medium.com/@503823696/simpsons-paradox-in-daily-data-analysis-work-51d28c9c7967)
 - [Data Science in Gaming- Practical Applications of Propensity Score Matching (PSM)](https://medium.com/@503823696/data-science-in-gaming-practical-applications-of-propensity-score-matching-psm-6529227afe5f)
 -  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medium</div><img src='images/did.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**DID causal inference application in Marketing Data**](https://medium.com/@503823696/did-causal-inference-application-in-marketing-data-9b92ebc3c60b)
+
+**Lei Duan**
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- The article addresses the application of Difference-in-difference(DID) in optimizing advertising spend and traffic quality for marketing teams. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medium</div><img src='images/psm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
