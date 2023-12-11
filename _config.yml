@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lei Duan"
-description              : "Master student at University."
+description              : "Master student at Duke University."
 repository               : "leiduan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lei Duan"
   avatar           : "images/people.png"
-  bio              : "Duke University"
+  bio              : 
   location         : "Durham, NC"
   employer         :
   pubmed           : 
